@@ -205,14 +205,6 @@ secret.key     → used to lock & unlock passwords
 
 All outputs are **text-based (console output)**.
 
----
-
-## 🎓 Simple explanation you can say in viva
-
-> “This project is a Python-based password manager that securely stores user passwords using encryption and a database. The user can add new passwords, generate strong passwords, and retrieve saved passwords. All data is stored securely and remains available even after restarting the program.”
-
----
-
 ## ✅ Final conclusion
 
 * Your project is **working**
